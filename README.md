@@ -18,7 +18,7 @@ CREATE TABLE `server`.`wol` (
  `mac` VARCHAR(50) NOT NULL COMMENT 'MAC-Adress',
  `shared` TINYINT(1) NOT NULL COMMENT 'visible to everyone',
  UNIQUE `name` (`name`)
- ) ENGINE = InnoDB;
+) ENGINE = InnoDB;
 ````
 
 More soon
