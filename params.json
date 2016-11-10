@@ -1,0 +1,6 @@
+{
+  "name": "Wake-on-LAN",
+  "tagline": "Wake-On-Lan (WOL) starts your computer remotely... magic",
+  "body": "[![GitHub followers](https://img.shields.io/github/followers/peterbrain.svg?style=social&label=Follow)](https://github.com/peterbrain)\r\n[![GitHub watchers](https://img.shields.io/github/watchers/peterbrain/wake-on-lan.svg?style=social&label=Watch)](https://github.com/peterbrain/scripts)\r\n[![GitHub stars](https://img.shields.io/github/stars/peterbrain/wake-on-lan.svg?style=social&label=Star)]()\r\n[![GitHub forks](https://img.shields.io/github/forks/peterbrain/wake-on-lan.svg?style=social&label=Fork)]()\r\n\r\n[![GitHub author](https://img.shields.io/badge/Author-PeterBrain-3BCDD6.svg)](http://peterbrain.github.io)\r\n[![GitHub author](https://img.shields.io/badge/language-PHP-8892BF.svg)]()\r\n\r\n# Wake on LAN\r\nWake-On-LAN (WOL) starts your computer remotely... magic\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
