@@ -9,7 +9,7 @@
 # Wake on LAN
 Wake-On-LAN (WOL) starts your computer remotely... magic
 
- First of all, this is the structure of the needed database named 'server'.
+First of all, this is the structure of the needed database named 'server'.
 ````
 CREATE TABLE `server`.`wol` (
  `owner_id` INT(11) NOT NULL COMMENT 'User ID',
@@ -21,4 +21,8 @@ CREATE TABLE `server`.`wol` (
 ) ENGINE = InnoDB;
 ````
 
-More soon
+Put this into your PHP script to send a Magic Packet
+````
+require_once __DIR__.'\wakeonlan.php';
+\wakeol\WakeOnLAN::wakeUp($mac, $ip); 
+````
